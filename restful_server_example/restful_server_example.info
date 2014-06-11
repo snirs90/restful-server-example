@@ -43,3 +43,4 @@ dependencies[] = panels
 dependencies[] = strongarm
 dependencies[] = token
 dependencies[] = restful
+dependencies[] = restful_token_auth
