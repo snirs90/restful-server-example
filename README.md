@@ -1,2 +1,2 @@
-restful-server-example
+restful_server_example
 ===========

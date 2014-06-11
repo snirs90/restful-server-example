@@ -39,10 +39,10 @@ Thumbs.db
 
 # Garmentbox #
 #############
-restful-server-example/modules/contrib
-restful-server-example/1/modules
-restful-server-example/themes/contrib
-restful-server-example/libraries
+restful_server_example/modules/contrib
+restful_server_example/1/modules
+restful_server_example/themes/contrib
+restful_server_example/libraries
 www
 install.sh
 
@@ -53,10 +53,10 @@ install.sh
 .idea
 
 # Behat
-restful-server-example/behat/vendor/
+restful_server_example/behat/vendor/
 behat.local.yml
-restful-server-example/behat/bin
-restful-server-example/behat/composer.phar
+restful_server_example/behat/bin
+restful_server_example/behat/composer.phar
 
 #sass
-restful-server-example/themes/custom/bootstrap_subtheme/.sass-cache
+restful_server_example/themes/custom/bootstrap_subtheme/.sass-cache

@@ -1,7 +1,7 @@
 <?php
 /**
  * @file
- * Garmentbox profile.
+ * restful_server_example profile.
  */
 
 /**
