@@ -1,0 +1,45 @@
+name = restful_server_example
+description = restful_server_example
+version = VERSION
+core = 7.x
+
+; Core
+dependencies[] = block
+dependencies[] = color
+dependencies[] = contextual
+dependencies[] = help
+dependencies[] = image
+dependencies[] = locale
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = dblog
+dependencies[] = shortcut
+dependencies[] = file
+dependencies[] = rdf
+
+; Contrib modules
+dependencies[] = admin_menu_toolbar
+dependencies[] = admin_views
+dependencies[] = ctools
+dependencies[] = date
+dependencies[] = date_popup
+dependencies[] = email
+dependencies[] = entity
+dependencies[] = entity_token
+dependencies[] = entityreference
+dependencies[] = entityreference_prepopulate
+dependencies[] = features
+dependencies[] = inline_entity_form
+dependencies[] = jquery_update
+dependencies[] = libraries
+dependencies[] = module_filter
+dependencies[] = pathauto
+dependencies[] = page_manager
+dependencies[] = panels
+dependencies[] = strongarm
+dependencies[] = token
+dependencies[] = restful

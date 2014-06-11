@@ -1,0 +1,62 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Garmentbox #
+#############
+restful-server-example/modules/contrib
+restful-server-example/1/modules
+restful-server-example/themes/contrib
+restful-server-example/libraries
+www
+install.sh
+
+# IDE #
+##########
+.project
+.settings/
+.idea
+
+# Behat
+restful-server-example/behat/vendor/
+behat.local.yml
+restful-server-example/behat/bin
+restful-server-example/behat/composer.phar
+
+#sass
+restful-server-example/themes/custom/bootstrap_subtheme/.sass-cache
